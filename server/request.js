@@ -1,5 +1,4 @@
 const http=require('http');
-const { hostname } = require('os');
 
 const option={
     hostname:'fakestoreapi.com',
